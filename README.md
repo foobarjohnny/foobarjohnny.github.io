@@ -1,2 +1,2 @@
-# foobarjohnny.github.io
-main page
+# foobarjohnny.github.io of markdown
+main page of markdown
